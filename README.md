@@ -133,4 +133,35 @@ Main code responsibilities:
 - Display updates
 - State-based system flow
 
-Arduino code is located in:
+Arduino code is located in: code folder
+
+
+--------------------------------------------
+
+## ⚠️ Limitations
+- Ultrasonic sensor may false-trigger
+- Unlock code is not encrypted
+- No session history storage
+- Fixed physical design
+
+---
+
+## 🚀 Possible Improvements
+- 🔢 Keypad instead of buttons
+- 📊 Session tracking and statistics
+- 🔋 Battery-powered version
+- 📱 App or Bluetooth integration
+- 🔐 Stronger locking mechanism
+
+---
+
+## 🧪 Purpose of This Project
+This project was built as:
+- A hands-on Arduino systems integration exercise
+- A physical approach to focus enforcement
+- Practice combining sensors, actuators, and UI components
+
+---
+
+## 📜 License
+Open for learning, experimentation, and iteration.
